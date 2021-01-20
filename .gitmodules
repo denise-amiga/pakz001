@@ -1,0 +1,33 @@
+[submodule "blitz3d"]
+	path = blitz3d
+	url = https://github.com/pakz001/blitz3d.git
+[submodule "blitzmaxexamples"]
+	path = blitzmaxexamples
+	url = https://github.com/pakz001/blitzmaxexamples.git
+[submodule "blitzplusexamples"]
+	path = blitzplusexamples
+	url = https://github.com/pakz001/blitzplusexamples.git
+[submodule "godot-examples"]
+	path = godot-examples
+	url = https://github.com/pakz001/godot-examples.git
+[submodule "html5examples"]
+	path = html5examples
+	url = https://github.com/pakz001/html5examples.git
+[submodule "javagameexamples"]
+	path = javagameexamples
+	url = https://github.com/pakz001/javagameexamples.git
+[submodule "monkey2-3d"]
+	path = monkey2-3d
+	url = https://github.com/pakz001/monkey2-3d.git
+[submodule "monkey2examples"]
+	path = monkey2examples
+	url = https://github.com/pakz001/monkey2examples.git
+[submodule "monkeyxexamples"]
+	path = monkeyxexamples
+	url = https://github.com/pakz001/monkeyxexamples.git
+[submodule "pythonista-examples"]
+	path = pythonista-examples
+	url = https://github.com/pakz001/pythonista-examples.git
+[submodule "raylib-examples"]
+	path = raylib-examples
+	url = https://github.com/pakz001/raylib-examples.git
